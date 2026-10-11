@@ -1,43 +1,162 @@
-## Selected work
-
-<div align="center">
+## 👋 Hi, I'm Satyam Bugdane
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=satyam1603&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F92084999%3Fu%3D3894f041ac9f08b0c60f241e76ce8c76d6a82146%26v%3D4" alt="satyam1603 hero visual" />
+  <img src="https://www.gitskins.com/api/section/hero?username=satyam1603&theme=neon" alt="Satyam Bugdane - DevOps Engineer" width="100%" />
 </p>
 
-<h1>Satyam Bugdane</h1>
-<p><b>Freelance developer or consultant</b></p>
-
-</div>
-
-## The idea behind the work
-
-> Building useful things and learning in public.
-
-- 👥 **0** followers · **2** following
-
-*Small, useful work over vague claims.*
-
-## Case studies
-
-<table>
-<tr><td width="32%"><b><a href="https://github.com/Satyam1603/k8s-kind-voting-app">k8s-kind-voting-app</a></b></td><td>This is a distributed app composed of multiple containers for Docker, Compose, Swarm, and Kubernetes<br/><sub>C# · 0 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/Satyam1603/portfolio">portfolio</a></b></td><td>Simple portfolio using React Js<br/><sub>JavaScript · 0 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/Satyam1603/secretsanta-generator">secretsanta-generator</a></b></td><td>Secret Santa Generator web application built with Spring Boot, Thymeleaf, H2 Database :santa:<br/><sub>Java · 0 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/Satyam1603/ThreeTierAppln">ThreeTierAppln</a></b></td><td>A selected project from this GitHub profile.<br/><sub>JavaScript · 0 stars</sub></td></tr>
-</table>
-
-## Creative toolkit
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) `Dockerfile`
-
-## Make something memorable
+<h3 align="center">DevOps Engineer | Cloud | Automation | CI/CD</h3>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=satyam1603&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F92084999%3Fu%3D3894f041ac9f08b0c60f241e76ce8c76d6a82146%26v%3D4" alt="satyam1603 social visual" />
+  <a href="https://github.com/Satyam1603">
+    <img src="https://img.shields.io/badge/GitHub-Satyam1603-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://github.com/Satyam1603?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Explore-blue?style=for-the-badge&logo=github" alt="Repositories" />
+  </a>
 </p>
 
-<a href="https://github.com/satyam1603">GitHub</a>
+## 🚀 About Me
 
-<p align="center"><sub>Satyam Bugdane · Creative portfolio generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+I'm an Assistant System Engineer at Tata Consultancy Services, working with banking application support, Linux/Unix monitoring, log analysis, incident management, troubleshooting and deployment support.
+
+I'm developing my DevOps engineering skills through practical projects in containerization, Kubernetes, CI/CD, cloud infrastructure and automation.
+
+- 🐧 Working on Linux administration and Bash scripting
+- 🐳 Practicing Docker and Kubernetes deployments
+- ⚙️ Learning CI/CD pipelines with Jenkins and GitHub Actions
+- ☁️ Building cloud and infrastructure automation skills
+- 🔐 Interested in reliable deployments, monitoring and operational excellence
+- 🎓 Microsoft Azure Fundamentals (AZ-900)
+
+---
+
+## 🛠️ Tech Stack
+
+### Operating Systems & Scripting
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
+
+### Containers & Orchestration
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
+</p>
+
+### CI/CD & Infrastructure as Code
+
+<p>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+### Cloud & Development
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+</p>
+
+---
+
+## 💻 Featured Projects
+
+### 1. Ansible EC2 Automation
+**Technologies:** Ansible, AWS EC2, Linux
+
+🔗 [View Repository](https://github.com/Satyam1603/Ansible-Ec2_automation)
+
+An infrastructure automation project focused on managing EC2 servers with Ansible. Explore the repository for the implemented automation workflows, inventory configuration and setup instructions.
+
+### 2. Kubernetes Voting Application
+**Technologies:** Docker, Docker Compose, Kubernetes
+
+🔗 [View Repository](https://github.com/Satyam1603/k8s-kind-voting-app)
+
+A distributed application project exploring containerization, multi-container workflows and Kubernetes deployment.
+
+### 3. Three-Tier Application
+**Technologies:** JavaScript and application architecture
+
+🔗 [View Repository](https://github.com/Satyam1603/ThreeTierAppln)
+
+An application project that can be used to demonstrate multi-tier deployment concepts. See the repository documentation for the actual architecture and implementation details.
+
+### 4. Developer Portfolio
+**Technologies:** React, JavaScript
+
+🔗 [View Repository](https://github.com/Satyam1603/portfolio)
+
+A React-based portfolio project showcasing development work and personal projects.
+
+---
+
+## 💼 Professional Experience
+
+**Assistant System Engineer | Tata Consultancy Services**
+
+- Monitor banking application environments and investigate application issues.
+- Perform Linux/Unix health checks, log analysis and operational troubleshooting.
+- Support incident management, root-cause analysis and SLA monitoring.
+- Assist with release validation, deployment activities and operational handovers.
+- Use SQL and application workflows to investigate and resolve operational issues.
+
+---
+
+## 🎓 Certifications
+
+- Microsoft Certified: Azure Fundamentals (AZ-900)
+
+---
+
+## 🎯 Current Learning Goals
+
+- Strengthen Linux administration and Bash scripting
+- Build CI/CD pipelines with Jenkins and GitHub Actions
+- Automate infrastructure with Ansible and Terraform
+- Deploy and troubleshoot containerized applications on Kubernetes
+- Improve cloud infrastructure, monitoring and observability skills
+- Build end-to-end DevOps projects with clear documentation
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Satyam1603&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam1603&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p>
+  <a href="https://github.com/Satyam1603">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://github.com/Satyam1603/portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=satyam1603&theme=neon" alt="GitSkins social visual" width="100%" />
+</p>
+
+<p align="center">
+  <i>Learning by building. Improving through automation. Growing into DevOps.</i>
+</p>
