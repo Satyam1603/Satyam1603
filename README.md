@@ -67,6 +67,16 @@ I'm developing my DevOps engineering skills through practical projects in contai
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 </p>
 
+## 🧠 Coding Profiles
+
+<p align="left">
+  <a href="https://leetcode.com/satyam1603/" target="https://leetcode.com/u/satyam1603/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/satyambugdane/" target="https://www.geeksforgeeks.org/profile/satyambugdane">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+  </a>
+</p>
 ---
 
 ## 💻 Featured Projects
