@@ -146,17 +146,6 @@ A React-based portfolio project showcasing development work and personal project
 - Improve cloud infrastructure, monitoring and observability skills
 - Build end-to-end DevOps projects with clear documentation
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Satyam1603&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam1603&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-</p>
 
 ---
 
@@ -168,6 +157,9 @@ A React-based portfolio project showcasing development work and personal project
   </a>
   <a href="https://github.com/Satyam1603/portfolio">
     <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+   <a href="https://www.linkedin.com/in/satyam-bugdane-7592ab1b8/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
