@@ -109,6 +109,11 @@ An application project that can be used to demonstrate multi-tier deployment con
 
 A React-based portfolio project showcasing development work and personal projects.
 
+### 5. SERVER_HEALTH_MONITOR
+ **Technologies:** LINUX,Terraform(Basics),AWS
+ 
+🔗 [View Repository](https://github.com/Satyam1603/SERVER_HEALTH_MONITOR)
+     A DevOps project that provisions 5 EC2 instances on AWS using Terraform and deploys a comprehensive Linux health monitoring script. 
 ---
 
 ## 💼 Professional Experience
@@ -126,6 +131,9 @@ A React-based portfolio project showcasing development work and personal project
 ## 🎓 Certifications
 
 - Microsoft Certified: Azure Fundamentals (AZ-900)
+- Claude certified developer - Foundation
+- Microsoft 365 Certified: Copilot and Agent Administration Fundamentals
+- Microsoft Certified: SQL AI Developer Associate
 
 ---
 
