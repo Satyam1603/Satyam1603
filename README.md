@@ -1,8 +1,5 @@
 ## 👋 Hi, I'm Satyam Bugdane
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=satyam1603&theme=neon" alt="Satyam Bugdane - DevOps Engineer" width="100%" />
-</p>
 
 <h3 align="center">DevOps Engineer | Cloud | Automation | CI/CD</h3>
 
